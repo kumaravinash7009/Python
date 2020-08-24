@@ -1,0 +1,13 @@
+from numpy import *
+arr1=array([1,2,3,4,5])
+arr2=linspace(0,15,16)
+arr3=arange(1,15,2)
+arr4=logspace(1,40,5)
+arr5=zeros(5,int)
+arr6=ones(5,int)
+print(arr1)
+print(arr2)
+print(arr3)
+print(arr4)
+print(arr5)
+print(arr6)
